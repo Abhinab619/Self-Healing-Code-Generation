@@ -1,0 +1,4 @@
+  File "C:\Users\HP\Desktop\Projects 2k24\Executor_Agent\codes\code_efbaaf5ebe874df8bece8933c4bac487.py", line 3
+    print(a + b = 105)
+          ^^^^^^^
+SyntaxError: expression cannot contain assignment, perhaps you meant "=="?
